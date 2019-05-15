@@ -1,3 +1,3 @@
 # Machine-Learning
 
-Machine Learning Projects and Algorithms with Python
+Machine Learning Projects and Algorithms with Python.
